@@ -1,0 +1,42 @@
+body{
+    background-color: MediumSlateBlue;
+    font-family: Trebuchet MS;
+    font-size: 14px;
+    }
+input{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    }
+
+#login{
+    margin: 50px auto;
+    width: 400px;
+    text-align: center;
+    }
+
+#login h2{
+    background-color: #000;
+    color: #fff;
+    font-size: 30px;
+    text-align: left; 
+    }
+#Dos{
+    margin: 50px auto;
+    width: 400px;
+    text-align: center ;
+}
+#Dos h2{
+    background-color: gray;
+    color: blue;
+    font-size: 30px;
+    text-align: center; 
+}
+#tres{
+    margin: 50px auto;
+    width: 400px;
+    text-align: center;
+    }
+#tres a{
+    font-size: 30px;
+    text-align: center;
+}
